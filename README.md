@@ -1,0 +1,1 @@
+A storage system to store key-value data and to distribute in partitions. Executed in a client-server multithreaded process, this project exercises C programming language as well as persistency of data, concurrent programming dealing with a bounded-buffer, semaphores and mutex. 
